@@ -1,0 +1,4 @@
+id: 3 name: Loli count: 2 droprate: 92  
+id: 1 name: Robot count: 2 droprate: 46  
+id: 3 name: Fury count: 2 droprate: 7  
+id: 2 name: Goblin count: 3 droprate: 6  
